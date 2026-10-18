@@ -1,0 +1,1138 @@
+{
+ "13oct": {
+  "id": "13oct",
+  "fecha": "2026-10-13",
+  "titulo": "Santiago desde el espacio · 13 oct 2026",
+  "etiqueta": "13-oct tormenta",
+  "hitos": [
+   {
+    "hora": "15:00",
+    "texto": "Gemini: intensidad 4"
+   },
+   {
+    "hora": "16:00",
+    "texto": "Célula sobre Santiago"
+   },
+   {
+    "hora": "17:00",
+    "texto": "Peak 40.366 sin luz"
+   }
+  ],
+  "cuadros": [
+   {
+    "utc": "1600",
+    "horaChile": "13:00",
+    "objeto": "wow/2026-10-13/1600.jpg"
+   },
+   {
+    "utc": "1610",
+    "horaChile": "13:10",
+    "objeto": "wow/2026-10-13/1610.jpg"
+   },
+   {
+    "utc": "1620",
+    "horaChile": "13:20",
+    "objeto": "wow/2026-10-13/1620.jpg"
+   },
+   {
+    "utc": "1630",
+    "horaChile": "13:30",
+    "objeto": "wow/2026-10-13/1630.jpg"
+   },
+   {
+    "utc": "1640",
+    "horaChile": "13:40",
+    "objeto": "wow/2026-10-13/1640.jpg"
+   },
+   {
+    "utc": "1650",
+    "horaChile": "13:50",
+    "objeto": "wow/2026-10-13/1650.jpg"
+   },
+   {
+    "utc": "1700",
+    "horaChile": "14:00",
+    "objeto": "wow/2026-10-13/1700.jpg"
+   },
+   {
+    "utc": "1710",
+    "horaChile": "14:10",
+    "objeto": "wow/2026-10-13/1710.jpg"
+   },
+   {
+    "utc": "1720",
+    "horaChile": "14:20",
+    "objeto": "wow/2026-10-13/1720.jpg"
+   },
+   {
+    "utc": "1730",
+    "horaChile": "14:30",
+    "objeto": "wow/2026-10-13/1730.jpg"
+   },
+   {
+    "utc": "1740",
+    "horaChile": "14:40",
+    "objeto": "wow/2026-10-13/1740.jpg"
+   },
+   {
+    "utc": "1750",
+    "horaChile": "14:50",
+    "objeto": "wow/2026-10-13/1750.jpg"
+   },
+   {
+    "utc": "1800",
+    "horaChile": "15:00",
+    "objeto": "wow/2026-10-13/1800.jpg"
+   },
+   {
+    "utc": "1810",
+    "horaChile": "15:10",
+    "objeto": "wow/2026-10-13/1810.jpg"
+   },
+   {
+    "utc": "1820",
+    "horaChile": "15:20",
+    "objeto": "wow/2026-10-13/1820.jpg"
+   },
+   {
+    "utc": "1830",
+    "horaChile": "15:30",
+    "objeto": "wow/2026-10-13/1830.jpg"
+   },
+   {
+    "utc": "1840",
+    "horaChile": "15:40",
+    "objeto": "wow/2026-10-13/1840.jpg"
+   },
+   {
+    "utc": "1850",
+    "horaChile": "15:50",
+    "objeto": "wow/2026-10-13/1850.jpg"
+   },
+   {
+    "utc": "1900",
+    "horaChile": "16:00",
+    "objeto": "wow/2026-10-13/1900.jpg"
+   },
+   {
+    "utc": "1910",
+    "horaChile": "16:10",
+    "objeto": "wow/2026-10-13/1910.jpg"
+   },
+   {
+    "utc": "1920",
+    "horaChile": "16:20",
+    "objeto": "wow/2026-10-13/1920.jpg"
+   },
+   {
+    "utc": "1930",
+    "horaChile": "16:30",
+    "objeto": "wow/2026-10-13/1930.jpg"
+   },
+   {
+    "utc": "1940",
+    "horaChile": "16:40",
+    "objeto": "wow/2026-10-13/1940.jpg"
+   },
+   {
+    "utc": "1950",
+    "horaChile": "16:50",
+    "objeto": "wow/2026-10-13/1950.jpg"
+   },
+   {
+    "utc": "2000",
+    "horaChile": "17:00",
+    "objeto": "wow/2026-10-13/2000.jpg"
+   },
+   {
+    "utc": "2010",
+    "horaChile": "17:10",
+    "objeto": "wow/2026-10-13/2010.jpg"
+   },
+   {
+    "utc": "2020",
+    "horaChile": "17:20",
+    "objeto": "wow/2026-10-13/2020.jpg"
+   },
+   {
+    "utc": "2030",
+    "horaChile": "17:30",
+    "objeto": "wow/2026-10-13/2030.jpg"
+   },
+   {
+    "utc": "2040",
+    "horaChile": "17:40",
+    "objeto": "wow/2026-10-13/2040.jpg"
+   },
+   {
+    "utc": "2050",
+    "horaChile": "17:50",
+    "objeto": "wow/2026-10-13/2050.jpg"
+   },
+   {
+    "utc": "2100",
+    "horaChile": "18:00",
+    "objeto": "wow/2026-10-13/2100.jpg"
+   },
+   {
+    "utc": "2110",
+    "horaChile": "18:10",
+    "objeto": "wow/2026-10-13/2110.jpg"
+   },
+   {
+    "utc": "2120",
+    "horaChile": "18:20",
+    "objeto": "wow/2026-10-13/2120.jpg"
+   },
+   {
+    "utc": "2130",
+    "horaChile": "18:30",
+    "objeto": "wow/2026-10-13/2130.jpg"
+   },
+   {
+    "utc": "2140",
+    "horaChile": "18:40",
+    "objeto": "wow/2026-10-13/2140.jpg"
+   },
+   {
+    "utc": "2150",
+    "horaChile": "18:50",
+    "objeto": "wow/2026-10-13/2150.jpg"
+   },
+   {
+    "utc": "2200",
+    "horaChile": "19:00",
+    "objeto": "wow/2026-10-13/2200.jpg"
+   },
+   {
+    "utc": "2210",
+    "horaChile": "19:10",
+    "objeto": "wow/2026-10-13/2210.jpg"
+   },
+   {
+    "utc": "2220",
+    "horaChile": "19:20",
+    "objeto": "wow/2026-10-13/2220.jpg"
+   },
+   {
+    "utc": "2230",
+    "horaChile": "19:30",
+    "objeto": "wow/2026-10-13/2230.jpg"
+   },
+   {
+    "utc": "2240",
+    "horaChile": "19:40",
+    "objeto": "wow/2026-10-13/2240.jpg"
+   },
+   {
+    "utc": "2250",
+    "horaChile": "19:50",
+    "objeto": "wow/2026-10-13/2250.jpg"
+   },
+   {
+    "utc": "2300",
+    "horaChile": "20:00",
+    "objeto": "wow/2026-10-13/2300.jpg"
+   },
+   {
+    "utc": "2310",
+    "horaChile": "20:10",
+    "objeto": "wow/2026-10-13/2310.jpg"
+   },
+   {
+    "utc": "2320",
+    "horaChile": "20:20",
+    "objeto": "wow/2026-10-13/2320.jpg"
+   },
+   {
+    "utc": "2330",
+    "horaChile": "20:30",
+    "objeto": "wow/2026-10-13/2330.jpg"
+   },
+   {
+    "utc": "2340",
+    "horaChile": "20:40",
+    "objeto": "wow/2026-10-13/2340.jpg"
+   },
+   {
+    "utc": "2350",
+    "horaChile": "20:50",
+    "objeto": "wow/2026-10-13/2350.jpg"
+   }
+  ],
+  "satelite": [
+   {
+    "hora": "00:00",
+    "intensidad": 0,
+    "nubosidadPct": 0,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "despejado",
+    "descripcion": "Cielo mayormente despejado sobre la cuenca de Santiago con nubosidad media restringida a sectores cordilleranos hacia el este."
+   },
+   {
+    "hora": "01:00",
+    "intensidad": 0,
+    "nubosidadPct": 0,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "despejado",
+    "descripcion": "Cielos despejados sobre la cuenca de Santiago con focos aislados de nubosidad media en la alta cordillera."
+   },
+   {
+    "hora": "02:00",
+    "intensidad": 0,
+    "nubosidadPct": 0,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "despejado",
+    "descripcion": "Cielo mayormente despejado o con nubosidad baja en los valles y Santiago, con nubosidad media confinada únicamente a las altas cumbres andinas al este."
+   },
+   {
+    "hora": "03:00",
+    "intensidad": 0,
+    "nubosidadPct": 0,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "despejado",
+    "descripcion": "Cielos mayormente despejados a nubosidad baja en el valle central de Santiago, con nubosidad orográfica media y alta confinada exclusivamente a la alta cordillera."
+   },
+   {
+    "hora": "04:00",
+    "intensidad": 0,
+    "nubosidadPct": 2,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "despejado",
+    "descripcion": "Cielos mayormente despejados o con nubosidad baja en los valles y Santiago, con una banda de nubosidad media a alta restringida al sector cordillerano."
+   },
+   {
+    "hora": "05:00",
+    "intensidad": 0,
+    "nubosidadPct": 5,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "nubosidad_baja",
+    "descripcion": "Cielo predominantemente cubierto por nubosidad baja/estratiforme gris en Santiago, con nubes medias y altas limitadas a la cordillera hacia el este."
+   },
+   {
+    "hora": "06:00",
+    "intensidad": 1,
+    "nubosidadPct": 10,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "estratiforme",
+    "descripcion": "Nubosidad media y alta concentrada en la zona cordillerana y el sureste, con nubosidad baja o estratos predominando en los valles y sobre Santiago."
+   },
+   {
+    "hora": "07:00",
+    "intensidad": 2,
+    "nubosidadPct": 15,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "estratiforme",
+    "descripcion": "Nubosidad baja a media dispersa con pequeños parches aislados de tope medio cerca del centro y nubosidad más fría confinada a la cordillera hacia el sureste."
+   },
+   {
+    "hora": "08:00",
+    "intensidad": 1,
+    "nubosidadPct": 5,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "estratiforme",
+    "descripcion": "Nubosidad baja a media estratiforme cubriendo parcialmente la zona central, con una banda más densa y fría desplazada hacia el sector suroriental y cordillerano."
+   },
+   {
+    "hora": "09:00",
+    "intensidad": 1,
+    "nubosidadPct": 5,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "despejado",
+    "descripcion": "Cielo mayormente despejado o con nubosidad baja sobre Santiago, con abundante nubosidad estratiforme ingresando hacia el sureste."
+   },
+   {
+    "hora": "10:00",
+    "intensidad": 0,
+    "nubosidadPct": 0,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "despejado",
+    "descripcion": "Cielos mayormente despejados o con nubosidad baja en la zona central y Santiago, con nubosidad media y alta restringida al extremo sureste en la cordillera."
+   },
+   {
+    "hora": "11:00",
+    "intensidad": 0,
+    "nubosidadPct": 0,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "despejado",
+    "descripcion": "Cielo predominantemente despejado a nivel medio y alto sobre Santiago, con nubosidad baja o contraste orográfico y nubosidad media solo en el extremo sureste."
+   },
+   {
+    "hora": "12:00",
+    "intensidad": 0,
+    "nubosidadPct": 0,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "despejado",
+    "descripcion": "Cielos mayormente despejados o con nubosidad baja sobre la cuenca de Santiago, con nubosidad media confinada al extremo suroriente."
+   },
+   {
+    "hora": "13:00",
+    "intensidad": 1,
+    "nubosidadPct": 2,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "nubosidad_baja",
+    "descripcion": "Predominio de nubosidad baja o estratocúmulos grises con apenas pequeños parches aislados de nube media en el norte y zonas altas."
+   },
+   {
+    "hora": "14:00",
+    "intensidad": 2,
+    "nubosidadPct": 15,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "estratiforme",
+    "descripcion": "Parches dispersos de nubosidad media (azul/cian) en torno al centro, con núcleos más desarrollados y fríos (verde) restringidos al extremo norte."
+   },
+   {
+    "hora": "15:00",
+    "intensidad": 4,
+    "nubosidadPct": 25,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "mixta",
+    "descripcion": "Núcleos de nubosidad media y alta fría (verdes) desplazados al norte y oeste del centro, con escasa cobertura directamente sobre Santiago."
+   },
+   {
+    "hora": "16:00",
+    "intensidad": 8,
+    "nubosidadPct": 95,
+    "conveccion": true,
+    "celulaSobreSantiago": true,
+    "tipo": "convectiva",
+    "descripcion": "Actividad convectiva importante directamente sobre la cuenca de Santiago con topes fríos de nivel amarillo."
+   },
+   {
+    "hora": "17:00",
+    "intensidad": 7,
+    "nubosidadPct": 100,
+    "conveccion": true,
+    "celulaSobreSantiago": false,
+    "tipo": "convectiva",
+    "descripcion": "Estructura nubosa densa y fría cubriendo la zona central con un núcleo convectivo en desarrollo con topes amarillos cercano al este de Santiago."
+   },
+   {
+    "hora": "18:00",
+    "intensidad": 6,
+    "nubosidadPct": 100,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "frontal",
+    "descripcion": "Extensa masa nubosa frontal y estratiforme con topes fríos en tonos verdes sobre el centro y sur del área."
+   },
+   {
+    "hora": "19:00",
+    "intensidad": 2,
+    "nubosidadPct": 10,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "mixta",
+    "descripcion": "Nubosidad baja a media dispersa sobre el centro, con un sistema estratiforme denso de topes fríos avanzando por el sur."
+   },
+   {
+    "hora": "20:00",
+    "intensidad": 1,
+    "nubosidadPct": 10,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "nubosidad_baja",
+    "descripcion": "Predominio de nubosidad baja y estratocúmulos en la cuenca de Santiago con bandas de nubosidad media y alta afectando los extremos norte y sur."
+   },
+   {
+    "hora": "21:00",
+    "intensidad": 2,
+    "nubosidadPct": 25,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "estratiforme",
+    "descripcion": "Nubosidad media y alta estratificada presente principalmente al norte y sureste del área central, con Santiago bajo nubosidad baja o media dispersa sin convección."
+   },
+   {
+    "hora": "22:00",
+    "intensidad": 3,
+    "nubosidadPct": 55,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "estratiforme",
+    "descripcion": "Cobertura de nubosidad media y alta estratiforme afectando el área central y precordillera, sin actividad convectiva."
+   },
+   {
+    "hora": "23:00",
+    "intensidad": 3,
+    "nubosidadPct": 25,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "mixta",
+    "descripcion": "Nubosidad media a alta dispersa en tonos cian y azul sobre el centro y cordillera, sin núcleos convectivos profundos."
+   }
+  ],
+  "sec": [
+   {
+    "hora": "00:00",
+    "clientes": 1232,
+    "comunas": 36
+   },
+   {
+    "hora": "01:00",
+    "clientes": 1204,
+    "comunas": 33
+   },
+   {
+    "hora": "02:00",
+    "clientes": 1335,
+    "comunas": 34
+   },
+   {
+    "hora": "03:00",
+    "clientes": 500,
+    "comunas": 32
+   },
+   {
+    "hora": "04:00",
+    "clientes": 296,
+    "comunas": 30
+   },
+   {
+    "hora": "05:00",
+    "clientes": 268,
+    "comunas": 30
+   },
+   {
+    "hora": "06:00",
+    "clientes": 321,
+    "comunas": 31
+   },
+   {
+    "hora": "07:00",
+    "clientes": 353,
+    "comunas": 34
+   },
+   {
+    "hora": "08:00",
+    "clientes": 4644,
+    "comunas": 40
+   },
+   {
+    "hora": "09:00",
+    "clientes": 5064,
+    "comunas": 43
+   },
+   {
+    "hora": "10:00",
+    "clientes": 4279,
+    "comunas": 48
+   },
+   {
+    "hora": "11:00",
+    "clientes": 3254,
+    "comunas": 49
+   },
+   {
+    "hora": "12:00",
+    "clientes": 3730,
+    "comunas": 51
+   },
+   {
+    "hora": "13:00",
+    "clientes": 2673,
+    "comunas": 51
+   },
+   {
+    "hora": "14:00",
+    "clientes": 2894,
+    "comunas": 51
+   },
+   {
+    "hora": "15:00",
+    "clientes": 2178,
+    "comunas": 50
+   },
+   {
+    "hora": "16:00",
+    "clientes": 27981,
+    "comunas": 50
+   },
+   {
+    "hora": "17:00",
+    "clientes": 40366,
+    "comunas": 49
+   },
+   {
+    "hora": "18:00",
+    "clientes": 34681,
+    "comunas": 51
+   },
+   {
+    "hora": "19:00",
+    "clientes": 25514,
+    "comunas": 51
+   },
+   {
+    "hora": "20:00",
+    "clientes": 22235,
+    "comunas": 50
+   },
+   {
+    "hora": "21:00",
+    "clientes": 23470,
+    "comunas": 50
+   },
+   {
+    "hora": "22:00",
+    "clientes": 20136,
+    "comunas": 50
+   },
+   {
+    "hora": "23:00",
+    "clientes": 17440,
+    "comunas": 50
+   }
+  ]
+ },
+ "08oct": {
+  "id": "08oct",
+  "fecha": "2026-10-08",
+  "titulo": "Santiago desde el espacio · 8 oct 2026",
+  "etiqueta": "8-oct aluvión",
+  "hitos": [
+   {
+    "hora": "17:00",
+    "texto": "~Aluvión Quebrada Honda"
+   }
+  ],
+  "cuadros": [
+   {
+    "utc": "1700",
+    "horaChile": "14:00",
+    "objeto": "wow/2026-10-08/1700.jpg"
+   },
+   {
+    "utc": "1710",
+    "horaChile": "14:10",
+    "objeto": "wow/2026-10-08/1710.jpg"
+   },
+   {
+    "utc": "1720",
+    "horaChile": "14:20",
+    "objeto": "wow/2026-10-08/1720.jpg"
+   },
+   {
+    "utc": "1730",
+    "horaChile": "14:30",
+    "objeto": "wow/2026-10-08/1730.jpg"
+   },
+   {
+    "utc": "1740",
+    "horaChile": "14:40",
+    "objeto": "wow/2026-10-08/1740.jpg"
+   },
+   {
+    "utc": "1750",
+    "horaChile": "14:50",
+    "objeto": "wow/2026-10-08/1750.jpg"
+   },
+   {
+    "utc": "1800",
+    "horaChile": "15:00",
+    "objeto": "wow/2026-10-08/1800.jpg"
+   },
+   {
+    "utc": "1810",
+    "horaChile": "15:10",
+    "objeto": "wow/2026-10-08/1810.jpg"
+   },
+   {
+    "utc": "1820",
+    "horaChile": "15:20",
+    "objeto": "wow/2026-10-08/1820.jpg"
+   },
+   {
+    "utc": "1830",
+    "horaChile": "15:30",
+    "objeto": "wow/2026-10-08/1830.jpg"
+   },
+   {
+    "utc": "1840",
+    "horaChile": "15:40",
+    "objeto": "wow/2026-10-08/1840.jpg"
+   },
+   {
+    "utc": "1850",
+    "horaChile": "15:50",
+    "objeto": "wow/2026-10-08/1850.jpg"
+   },
+   {
+    "utc": "1900",
+    "horaChile": "16:00",
+    "objeto": "wow/2026-10-08/1900.jpg"
+   },
+   {
+    "utc": "1910",
+    "horaChile": "16:10",
+    "objeto": "wow/2026-10-08/1910.jpg"
+   },
+   {
+    "utc": "1920",
+    "horaChile": "16:20",
+    "objeto": "wow/2026-10-08/1920.jpg"
+   },
+   {
+    "utc": "1930",
+    "horaChile": "16:30",
+    "objeto": "wow/2026-10-08/1930.jpg"
+   },
+   {
+    "utc": "1940",
+    "horaChile": "16:40",
+    "objeto": "wow/2026-10-08/1940.jpg"
+   },
+   {
+    "utc": "1950",
+    "horaChile": "16:50",
+    "objeto": "wow/2026-10-08/1950.jpg"
+   },
+   {
+    "utc": "2000",
+    "horaChile": "17:00",
+    "objeto": "wow/2026-10-08/2000.jpg"
+   },
+   {
+    "utc": "2010",
+    "horaChile": "17:10",
+    "objeto": "wow/2026-10-08/2010.jpg"
+   },
+   {
+    "utc": "2020",
+    "horaChile": "17:20",
+    "objeto": "wow/2026-10-08/2020.jpg"
+   },
+   {
+    "utc": "2030",
+    "horaChile": "17:30",
+    "objeto": "wow/2026-10-08/2030.jpg"
+   },
+   {
+    "utc": "2040",
+    "horaChile": "17:40",
+    "objeto": "wow/2026-10-08/2040.jpg"
+   },
+   {
+    "utc": "2050",
+    "horaChile": "17:50",
+    "objeto": "wow/2026-10-08/2050.jpg"
+   },
+   {
+    "utc": "2100",
+    "horaChile": "18:00",
+    "objeto": "wow/2026-10-08/2100.jpg"
+   },
+   {
+    "utc": "2110",
+    "horaChile": "18:10",
+    "objeto": "wow/2026-10-08/2110.jpg"
+   },
+   {
+    "utc": "2120",
+    "horaChile": "18:20",
+    "objeto": "wow/2026-10-08/2120.jpg"
+   },
+   {
+    "utc": "2130",
+    "horaChile": "18:30",
+    "objeto": "wow/2026-10-08/2130.jpg"
+   },
+   {
+    "utc": "2140",
+    "horaChile": "18:40",
+    "objeto": "wow/2026-10-08/2140.jpg"
+   },
+   {
+    "utc": "2150",
+    "horaChile": "18:50",
+    "objeto": "wow/2026-10-08/2150.jpg"
+   },
+   {
+    "utc": "2200",
+    "horaChile": "19:00",
+    "objeto": "wow/2026-10-08/2200.jpg"
+   },
+   {
+    "utc": "2210",
+    "horaChile": "19:10",
+    "objeto": "wow/2026-10-08/2210.jpg"
+   },
+   {
+    "utc": "2220",
+    "horaChile": "19:20",
+    "objeto": "wow/2026-10-08/2220.jpg"
+   },
+   {
+    "utc": "2230",
+    "horaChile": "19:30",
+    "objeto": "wow/2026-10-08/2230.jpg"
+   },
+   {
+    "utc": "2240",
+    "horaChile": "19:40",
+    "objeto": "wow/2026-10-08/2240.jpg"
+   },
+   {
+    "utc": "2250",
+    "horaChile": "19:50",
+    "objeto": "wow/2026-10-08/2250.jpg"
+   }
+  ],
+  "satelite": [
+   {
+    "hora": "00:00",
+    "intensidad": 0,
+    "nubosidadPct": 0,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "despejado",
+    "descripcion": "Cielo mayormente despejado en los valles centrales con nubosidad media dispersa restringida a sectores de la alta cordillera."
+   },
+   {
+    "hora": "01:00",
+    "intensidad": 0,
+    "nubosidadPct": 0,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "despejado",
+    "descripcion": "Cielo despejado en Santiago y los valles centrales, con escasa nubosidad media confinada a la alta cordillera."
+   },
+   {
+    "hora": "02:00",
+    "intensidad": 0,
+    "nubosidadPct": 0,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "despejado",
+    "descripcion": "Cielos despejados o con ligera nubosidad baja sobre los valles centrales y Santiago, con nubosidad media confinada a sectores cordilleranos hacia el este."
+   },
+   {
+    "hora": "03:00",
+    "intensidad": 0,
+    "nubosidadPct": 0,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "despejado",
+    "descripcion": "Cielo mayormente despejado o con nubes bajas en los valles y costa, con focos aislados de nubosidad media restringidos a la alta cordillera."
+   },
+   {
+    "hora": "04:00",
+    "intensidad": 0,
+    "nubosidadPct": 0,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "despejado",
+    "descripcion": "Cielos despejados o con nubosidad baja en los valles y costa, con nubosidad media confinada a la cordillera hacia el este."
+   },
+   {
+    "hora": "05:00",
+    "intensidad": 0,
+    "nubosidadPct": 0,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "despejado",
+    "descripcion": "Cielo despejado a nubosidad baja sobre la cuenca de Santiago y valles, con nubosidad media y algunos topes fríos restringidos a la alta cordillera."
+   },
+   {
+    "hora": "06:00",
+    "intensidad": 0,
+    "nubosidadPct": 0,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "nubosidad_baja",
+    "descripcion": "Nubosidad baja a media sobre los valles centrales con nubosidad media concentrada sobre la cordillera de los Andes al este."
+   },
+   {
+    "hora": "07:00",
+    "intensidad": 0,
+    "nubosidadPct": 0,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "despejado",
+    "descripcion": "Zona central y Santiago despejados o con nubosidad baja/suelo frío en escala de grises, con nubosidad media a alta confinada hacia la cordillera de los Andes al este."
+   },
+   {
+    "hora": "08:00",
+    "intensidad": 0,
+    "nubosidadPct": 0,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "despejado",
+    "descripcion": "Cielos despejados o con nubosidad baja en el valle central y Santiago, con nubosidad media y alta restringida al sector cordillerano oriental."
+   },
+   {
+    "hora": "09:00",
+    "intensidad": 1,
+    "nubosidadPct": 0,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "nubosidad_baja",
+    "descripcion": "Cielos mayormente cubiertos por nubosidad baja y estratiforme sobre el valle central, con núcleos aislados de nubosidad media y alta restringidos a la cordillera."
+   },
+   {
+    "hora": "10:00",
+    "intensidad": 0,
+    "nubosidadPct": 5,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "despejado",
+    "descripcion": "Cielo predominantemente despejado o con nubes bajas sobre Santiago, con núcleos de nubes medias a altas restringidos a sectores cordilleranos hacia el este y sur."
+   },
+   {
+    "hora": "11:00",
+    "intensidad": 0,
+    "nubosidadPct": 2,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "despejado",
+    "descripcion": "Cielos mayormente despejados de nubosidad media y alta sobre Santiago, con núcleos de nubes medias hacia la cordillera y sectores del sur."
+   },
+   {
+    "hora": "12:00",
+    "intensidad": 1,
+    "nubosidadPct": 10,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "estratiforme",
+    "descripcion": "Nubosidad media y alta dispersa sobre la cordillera y sectores costeros, con el valle central mayormente despejado de topes fríos."
+   },
+   {
+    "hora": "13:00",
+    "intensidad": 2,
+    "nubosidadPct": 15,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "mixta",
+    "descripcion": "Nubosidad media y alta concentrada principalmente en la cordillera, con solo algunos parches dispersos de nubosidad media cerca de la cuenca central."
+   },
+   {
+    "hora": "14:00",
+    "intensidad": 3,
+    "nubosidadPct": 35,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "mixta",
+    "descripcion": "Nubosidad media y alta dispersa afectando el sector central y cordillerano, sin núcleos convectivos profundos sobre Santiago."
+   },
+   {
+    "hora": "15:00",
+    "intensidad": 1,
+    "nubosidadPct": 10,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "estratiforme",
+    "descripcion": "Nubosidad media y alta concentrada principalmente en la cordillera andina al este, con el valle central mayormente libre de nubes frías."
+   },
+   {
+    "hora": "16:00",
+    "intensidad": 5,
+    "nubosidadPct": 75,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "estratiforme",
+    "descripcion": "Nubosidad media y alta con topes verdes fríos afectando la zona central y el sector precordillerano sin núcleos convectivos profundos."
+   },
+   {
+    "hora": "17:00",
+    "intensidad": 6,
+    "nubosidadPct": 60,
+    "conveccion": true,
+    "celulaSobreSantiago": false,
+    "tipo": "mixta",
+    "descripcion": "Actividad convectiva importante en la cordillera con topes fríos cercanos al este de Santiago y nubosidad alta cubriendo el sector."
+   },
+   {
+    "hora": "18:00",
+    "intensidad": 3,
+    "nubosidadPct": 25,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "estratiforme",
+    "descripcion": "Nubosidad media a alta de origen estratiforme/orográfico cubriendo la cordillera y aproximándose al valle central."
+   },
+   {
+    "hora": "19:00",
+    "intensidad": 2,
+    "nubosidadPct": 15,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "mixta",
+    "descripcion": "Nubosidad media y alta concentrada en la zona cordillerana al este, con parches aislados cerca del centro y predominio de nubosidad baja o cielo despejado en el valle."
+   },
+   {
+    "hora": "20:00",
+    "intensidad": 3,
+    "nubosidadPct": 40,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "estratiforme",
+    "descripcion": "Borde de nubosidad media y alta estratiforme afectando la zona cordillerana y el sector oriente, sin convección profunda."
+   },
+   {
+    "hora": "21:00",
+    "intensidad": 3,
+    "nubosidadPct": 55,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "estratiforme",
+    "descripcion": "Nubosidad media y alta de origen frontal o estratiforme afectando el valle central y la cordillera, con topes más fríos restringidos al sector suroriental."
+   },
+   {
+    "hora": "22:00",
+    "intensidad": 5,
+    "nubosidadPct": 75,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "estratiforme",
+    "descripcion": "Nubosidad media y alta de origen frontal o estratiforme afectando la zona central y cordillera, sin núcleos convectivos profundos."
+   },
+   {
+    "hora": "23:00",
+    "intensidad": 3,
+    "nubosidadPct": 35,
+    "conveccion": false,
+    "celulaSobreSantiago": false,
+    "tipo": "estratiforme",
+    "descripcion": "Nubosidad media y alta de origen estratiforme/orográfico concentrada sobre la cordillera y extendiéndose parcialmente hacia el este del valle central, con el sector occidental mayormente despejado o con nubes bajas."
+   }
+  ],
+  "sec": [
+   {
+    "hora": "00:00",
+    "clientes": 2378,
+    "comunas": 50
+   },
+   {
+    "hora": "01:00",
+    "clientes": 2760,
+    "comunas": 50
+   },
+   {
+    "hora": "02:00",
+    "clientes": 2613,
+    "comunas": 50
+   },
+   {
+    "hora": "03:00",
+    "clientes": 2447,
+    "comunas": 50
+   },
+   {
+    "hora": "04:00",
+    "clientes": 2417,
+    "comunas": 51
+   },
+   {
+    "hora": "05:00",
+    "clientes": 2504,
+    "comunas": 51
+   },
+   {
+    "hora": "06:00",
+    "clientes": 2018,
+    "comunas": 51
+   },
+   {
+    "hora": "07:00",
+    "clientes": 2004,
+    "comunas": 51
+   },
+   {
+    "hora": "08:00",
+    "clientes": 2556,
+    "comunas": 51
+   },
+   {
+    "hora": "09:00",
+    "clientes": 5102,
+    "comunas": 52
+   },
+   {
+    "hora": "10:00",
+    "clientes": 18068,
+    "comunas": 52
+   },
+   {
+    "hora": "11:00",
+    "clientes": 16831,
+    "comunas": 52
+   },
+   {
+    "hora": "12:00",
+    "clientes": 14544,
+    "comunas": 51
+   },
+   {
+    "hora": "13:00",
+    "clientes": 7776,
+    "comunas": 49
+   },
+   {
+    "hora": "14:00",
+    "clientes": 13674,
+    "comunas": 48
+   },
+   {
+    "hora": "15:00",
+    "clientes": 12046,
+    "comunas": 49
+   },
+   {
+    "hora": "16:00",
+    "clientes": 12792,
+    "comunas": 50
+   },
+   {
+    "hora": "17:00",
+    "clientes": 10780,
+    "comunas": 50
+   },
+   {
+    "hora": "18:00",
+    "clientes": 5758,
+    "comunas": 50
+   },
+   {
+    "hora": "19:00",
+    "clientes": 4441,
+    "comunas": 50
+   },
+   {
+    "hora": "20:00",
+    "clientes": 5432,
+    "comunas": 50
+   },
+   {
+    "hora": "21:00",
+    "clientes": 7173,
+    "comunas": 49
+   },
+   {
+    "hora": "22:00",
+    "clientes": 6002,
+    "comunas": 49
+   },
+   {
+    "hora": "23:00",
+    "clientes": 2231,
+    "comunas": 49
+   }
+  ]
+ }
+}

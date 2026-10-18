@@ -1,0 +1,10 @@
+# SPDX-License-Identifier: MIT
+.gcloudignore
+README.md
+CHANGELOG.md
+scripts/
+tests/
+__pycache__/
+*.pyc
+.DS_Store
+.venv/

@@ -1,0 +1,8 @@
+# SPDX-License-Identifier: MIT
+# Dependencias directas (pip-tools). Regenerar: pip-compile requirements.in
+cryptography==50.0.2
+fastapi==0.143.2
+google-auth==2.62.0
+google-cloud-storage==3.17.1
+prometheus-client==0.26.0
+uvicorn==0.54.0

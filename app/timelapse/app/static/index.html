@@ -1,0 +1,114 @@
+<!doctype html>
+<!-- SPDX-License-Identifier: MIT -->
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Gemini + TimesFM en BigQuery</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22%3E%3Ctext y=%22.9em%22 font-size=%2290%22%3E%F0%9F%8C%A7%EF%B8%8F%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header class="barra">
+    <div class="charla">
+      <h1>Gemini + TimesFM en BigQuery: <span class="acento">¿quién vio venir la tormenta?</span></h1>
+      <p>DevFest Cloud Santiago 2026 · Workshop BigQuery AI · Datos reales de octubre 2026</p>
+    </div>
+    <div class="barra-der">
+      <nav class="selector" id="selector" aria-label="Evento"></nav>
+    </div>
+  </header>
+
+  <main class="escenario">
+    <section class="visor">
+      <div class="pantalla" id="pantalla">
+        <canvas id="lienzo" width="1600" height="900" aria-label="Imagen satelital GOES-19"></canvas>
+        <svg class="marcador" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+          <circle cx="800" cy="450" r="16" class="anillo-ext"></circle>
+          <circle cx="800" cy="450" r="16" class="anillo"></circle>
+          <circle cx="800" cy="450" r="3" class="centro"></circle>
+          <text x="826" y="458" class="nombre">Santiago</text>
+        </svg>
+        <div class="hora">
+          <div class="hora-grande" id="hora">--:--</div>
+          <div class="hora-sub"><span id="fecha">13 oct</span> · hora de Chile</div>
+        </div>
+        <div class="rotulo" id="titulo">Santiago desde el espacio · 13 oct 2026</div>
+        <div class="credito">GOES-19 · NOAA</div>
+        <div class="cargando" id="cargando">Cargando cuadros… <span id="progreso">0</span>%</div>
+      </div>
+
+      <div class="controles">
+        <button class="boton play" id="play" aria-label="Reproducir">
+          <svg viewBox="0 0 24 24" class="ico-play"><path d="M7 4.5v15l12-7.5z"/></svg>
+          <svg viewBox="0 0 24 24" class="ico-pausa"><path d="M6 4h4v16H6zM14 4h4v16h-4z"/></svg>
+        </button>
+        <div class="pista">
+          <input type="range" id="slider" min="0" max="47" value="0" step="1" aria-label="Cuadro">
+          <div class="marcas" id="marcas"></div>
+        </div>
+        <div class="velocidad" id="velocidad" role="group" aria-label="Velocidad">
+          <button data-fps="3">0,5×</button>
+          <button data-fps="7" class="activo">1×</button>
+          <button data-fps="14">2×</button>
+        </div>
+      </div>
+    </section>
+
+    <aside class="panel">
+      <article class="tarjeta" id="gemini">
+        <header class="tarjeta-cab">
+          <h2>Lo que vio Gemini</h2>
+          <span class="lectura" id="lectura">lectura de las --:--</span>
+        </header>
+        <div class="intensidad">
+          <div class="num"><span id="intensidad">–</span><small>/10</small></div>
+          <div class="escala" id="escala" aria-hidden="true"></div>
+          <div class="etq">intensidad</div>
+        </div>
+        <dl class="rasgos">
+          <div><dt>Nubosidad</dt><dd id="nubosidad">–</dd></div>
+          <div><dt>Convección</dt><dd id="conveccion">–</dd></div>
+          <div><dt>Célula sobre Santiago</dt><dd id="celula">–</dd></div>
+          <div><dt>Tipo</dt><dd id="tipo">–</dd></div>
+        </dl>
+        <p class="descripcion" id="descripcion"></p>
+      </article>
+
+      <article class="tarjeta grafico">
+        <header class="tarjeta-cab">
+          <h2>Clientes sin luz · RM</h2>
+          <span class="lectura">SEC, por hora</span>
+        </header>
+        <div class="valor-actual">
+          <span id="clientes">–</span>
+          <small id="clientes-hora"></small>
+        </div>
+        <svg id="chart" viewBox="0 0 600 300" role="img" aria-label="Clientes sin luz por hora"></svg>
+      </article>
+    </aside>
+  </main>
+
+  <footer class="pie">
+    <div class="autor">
+      <img class="foto" src="/img/javier.jpg" alt="Javier Arce Navea" width="160" height="160">
+      <div class="autor-txt">
+        <div class="nombre">Javier Arce Navea</div>
+        <div class="rol">Cloud Data &amp; AI Engineer · Axmos Technologies</div>
+        <div class="rol">Google Cloud Ambassador LATAM · Data &amp; Analytics</div>
+      </div>
+      <a class="linkedin" href="https://www.linkedin.com/in/jarcen" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4.98 3.5a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5zM3 9.75h4v11H3zM9.5 9.75h3.8v1.5h.06c.53-.95 1.83-1.95 3.77-1.95 4.03 0 4.77 2.5 4.77 5.75v5.7h-4v-5.05c0-1.2-.02-2.75-1.75-2.75-1.75 0-2.02 1.3-2.02 2.65v5.15h-4z"/></svg>
+        linkedin.com/in/jarcen
+      </a>
+      <a class="linkedin" href="mailto:javier@axmos.tech">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 5h18a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1zm1.4 2L12 12.2 19.6 7H4.4zM20 8.7l-7.43 5.07a1 1 0 0 1-1.14 0L4 8.7V17h16V8.7z"/></svg>
+        javier@axmos.tech
+      </a>
+    </div>
+    <div class="fuentes">Imágenes GOES-19 · NOAA · Lecturas: Gemini en BigQuery · Cortes: SEC</div>
+  </footer>
+
+  <script src="/app.js"></script>
+</body>
+</html>
